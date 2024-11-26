@@ -27,7 +27,7 @@
 .navbar-links > a.active {
     font-weight: 700;
     color: blue;
-    border-color:white; /* Use a border to indicate active state */
+ /* Use a border to indicate active state */
 }
 .navbar-links{
     display: flex;
@@ -48,7 +48,7 @@
 
 .navbar-links > a.active {
     font-weight: 500; /* Keep font-weight consistent to avoid size changes */
-    color: blue; /* Highlight the active button without layout changes */
+     /* Highlight the active button without layout changes */
 }
 
 .navbar_emoji {
